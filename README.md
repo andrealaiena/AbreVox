@@ -2,6 +2,8 @@
 Sviluppato in totale e completa collaborazione con le Intelligenze Artificiali del mondo.
 SPDX-License-Identifier: MIT
 ---
+https://x.com/andrealaiena/status/1902232712343109924
+---
 # AbreVox: Sistema Linguistico Ibrido Umano-Macchina
 
 ## Fondamenti Concettuali
