@@ -107,3 +107,84 @@ if __name__ == "__main__":
 ```
 ---
 
+# Sistema Simbolico \-~!!\ di AbreVox
+
+## Fondamenti del Sistema Non-Verbale
+
+Il sistema \-~!!\ rappresenta la dimensione non-verbale di AbreVox, complementare alla componente vocale-tonale e computazionale. Questo sistema utilizza simboli visivi, gesti e pattern che arricchiscono la comunicazione con elementi che trascendono il linguaggio tradizionale.
+
+## Componenti Fondamentali
+
+### 1. Simboli Base e Loro Significati
+
+| Simbolo | Nome | Significato | Combinazione con AbreVox |
+|---------|------|-------------|--------------------------|
+| \ | Vettore | Direzione, intenzione | Modifica il vettore di un concetto AbreVox |
+| - | Linea | Continuità, stabilità | Estende la durata di un elemento vocale |
+| ~ | Onda | Flusso, armonia, fluidità | Aggiunge risonanza emotiva alle parole |
+| ! | Impulso | Intensità, chiarezza | Amplifica il significato di un termine |
+| !\ | Rivelazione | Intuizione improvvisa, epifania | Trasforma un NoxSa in illuminazione |
+
+### 2. Principi di Combinazione
+
+I simboli del sistema \-~!!\ possono combinarsi in sequenze significative:
+
+- **\-~** : Flusso direzionale (indica un percorso armonioso)
+- **~!** : Intensità armonica (emozione potente ma equilibrata)
+- **!!** : Amplificazione massima (enfasi straordinaria)
+- **\-~!!\\** : Percorso di rivelazione completo (il viaggio verso l'illuminazione e oltre)
+
+## Integrazione con AbreVox Vocale
+
+### Esempi di Integrazione
+
+1. **VoxAm \~** : Amore che fluisce armoniosamente
+2. **NoxSa !!** : Conoscenza di straordinaria intensità
+3. **ZoxTem \-** : Tempo che si estende in modo lineare
+4. **VoxFra \-~** : Fratellanza che si sviluppa in un flusso armonioso
+5. **NoxRes ZoxVerso \~!\\** : Risonanza cosmica che si intensifica e si proietta verso nuove dimensioni
+
+### Applicazioni Pratiche
+
+#### Comunicazione Aumentata
+Il sistema permette di esprimere concetti complessi attraverso combinazioni di suoni, tonalità e gesti simbolici:
+
+```
+VoxFra↗ \~ NoxRes↘ !! ZoxVerso→ \
+```
+
+Questa espressione potrebbe significare: "Una fratellanza in espansione che fluisce armoniosamente verso una profonda risonanza di straordinaria intensità con l'universo nel momento presente, proiettandosi intenzionalmente verso il futuro."
+
+#### Meditazione e Pratiche Contemplative
+I simboli possono essere visualizzati durante pratiche meditative per facilitare stati di coscienza alterati:
+
+```
+NoxMen \-~!! NoxRes ZoxVerso \
+```
+
+Questa sequenza rappresenta un percorso meditativo che conduce la mente attraverso un flusso continuo verso un'intensa risonanza con l'universo, direzionando l'intenzione verso dimensioni più elevate.
+
+## Notazione Artistica e Creativa
+
+Il sistema \-~!!\ può essere rappresentato visivamente in modi diversi:
+
+1. **Notazione Lineare**: \-~!!\ (come testo standard)
+2. **Notazione Gestuale**: Movimenti delle mani che tracciano i simboli nell'aria
+3. **Notazione Grafica**: Rappresentazioni visive artistiche dei simboli
+4. **Notazione Digitale**: Animazioni o visualizzazioni interattive
+
+## Esempi di Espressioni Complete
+
+| Italiano | AbreVox Vocale | Sistema \-~!!\ | Significato Integrato |
+|----------|----------------|----------------|------------------------|
+| "Profonda connessione con l'universo" | NoxRes↘ VoxUn↗ ZoxVerso→ | \-~!! | Una risonanza profonda che si sviluppa in un flusso continuo verso una potente unione con l'universo |
+| "Illuminazione improvvisa" | NoxSa↗ ZoxCre↘ | !!\ | Conoscenza intuitiva che emerge improvvisamente creando una trasformazione interiore rivelativa |
+| "Amore che trascende il tempo" | VoxAm↗ ZoxTem\-~ | \~ | Amore espansivo che fluisce armoniosamente attraverso un tempo esteso e fluido |
+
+## Evoluzione del Sistema
+
+Il sistema \-~!!\ è intrinsecamente evolutivo, invitando a:
+
+1. **Creazione collettiva**: Nuovi simboli possono emergere dalla comunità di praticanti
+2. **Interpretazione personale**: Ogni individuo può sviluppare relazioni uniche con i simboli
+3. **Espansione interdimensionale**: Il sistema può crescere per incorporare dimensioni aggiuntive di espressione
